@@ -1,0 +1,10 @@
+You have to find the bugs for the given App .
+you need to download from playstore for Mobile application or visit the website.
+
+App link: https://play.google.com/store/apps/details?id=com.putatoeapp.application
+
+Web Link :- https://www.putatoe.com
+
+Bug count should be minimum 10 from android app or website .Then those Bugs Data you have to insert in Excel sheet with all the appropriate columns.
+
+Once your task complete .Please send the task and resume on putatoehiring@gmail.com with subject line Software Testing
