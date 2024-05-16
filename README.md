@@ -1,2 +1,2 @@
 # Assignmets
-These are the assignments given by the companies to me, for selection rounds in software testing.
+These are the assignments given to me by the companies for selection rounds in software testing.
